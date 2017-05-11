@@ -14,3 +14,5 @@ for maniflod, serial port in /dev/ttyTHS1
 
 Run core node "roslaunch dji_sdk sdk_manifold.launch"
 Run client node "rosrun dji_sdk_demo dji_sdk_client"
+
+![image Test](https://github.com/yguo18/Drone-Linux-ROS/raw/master/src/dji_sdk_doc/structure.jpg)
